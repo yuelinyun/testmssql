@@ -1,0 +1,2 @@
+Need to chown -R mssql /home/mssql to use vscode remote container attaching
+
