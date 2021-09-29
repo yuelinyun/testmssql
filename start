@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+docker run -e "ACCEPT_EULA=Y" -e "SA_PASSWORD=Lapis108Lazuli" --name testmssql -d mcr.microsoft.com/mssql/server:latest
